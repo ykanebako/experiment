@@ -13,6 +13,7 @@ jupyterlab = "*"
 torch = "*"
 torchvision = "*"
 tqdm = "*"
+soupsieve = ">=4.0"
 
 [requires]
-python_version = "3.7"
+python_version = "3.12"
